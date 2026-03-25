@@ -18,34 +18,7 @@ To connect computers in multiple networks using Distance Vector Routing Protocol
 <img width="952" height="418" alt="Screenshot 2026-03-25 200030" src="https://github.com/user-attachments/assets/dad82430-ae06-47d0-b42e-8a12e8eefb60" />
 
 # PROCEDURE:
-STEP 1: Open a Packet Tracer Software.
-
-STEP 2: Drag two 2900 Switches, two Cisco 1800 Routers, and four PC Terminals from the toolbar and drop them in the work area.
-
-STEP 3: Connect all the PC Terminals and Routers through Switches as shown in the network diagram using CAT 6 Patch cables.
-
-STEP 4: Configure IP address and Gateway in all PC Terminals.
-
-STEP 5: Configure ROUTER0 and restart ROUTER0.
-
-STEP 6: Configure ROUTER1 and restart ROUTER1.
-
-STEP 7: Verify the connectivity between PC Terminals in different networks using the Ping command.
-
-### Detailed Procedure: Assign IP Addresses to PCs
-For each PC, go to Desktop > IP Configuration and assign the following:
-
-PC0: 192.168.1.2, Subnet Mask: 255.255.255.0, Gateway: 192.168.1.1
-
-PC1: 192.168.1.3, Subnet Mask: 255.255.255.0, Gateway: 192.168.1.1
-
-PC2: 192.168.2.2, Subnet Mask: 255.255.255.0, Gateway: 192.168.2.1
-
-PC3: 192.168.3.2, Subnet Mask: 255.255.255.0, Gateway: 192.168.3.1
-
-PC4: 192.168.4.2, Subnet Mask: 255.255.255.0, Gateway: 192.168.4.1
-
-PC5: 192.168.4.3, Subnet Mask: 255.255.255.0, Gateway: 192.168.4.1
+<img width="576" height="365" alt="image" src="https://github.com/user-attachments/assets/f4245c26-a2f8-4621-b317-0a2c8049f764" />
  
 # PROGRAM
 
@@ -142,4 +115,4 @@ Similarly, you can ping between other PCs (e.g., from PC2 to PC5) to verify netw
 
 # RESULT:
 
-Thus the computers in multiple networks using Distance Vector Routing <img width="576" height="365" alt="image" src="https://github.com/user-attachments/assets/f4245c26-a2f8-4621-b317-0a2c8049f764" />
+Thus the computers in multiple networks using Distance Vector Routing 
